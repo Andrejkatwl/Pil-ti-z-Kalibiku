@@ -3,5 +3,18 @@
     "name": "Expedice Pilátů z Kalibiku",
     "version": "1.0"
   },
-  "points": []
+  "points": [
+    {
+      "roadbookOrder": 1,
+      "type": "start",
+      "title": "Start expedice",
+      "gps": {
+        "lat": 48.7729519,
+        "lon": 17.0131886
+      },
+      "description": "Start expedice v Týnci.",
+      "taskType": "",
+      "image": ""
+    }
+  ]
 }
